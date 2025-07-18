@@ -1,0 +1,9 @@
+{
+  "pprint": {
+    "prefix": "pprint",
+    "body": [
+      "(clojure.pprint/pprint {${0}})"
+    ],
+    "description": "Clojure pprint"
+  }
+}
